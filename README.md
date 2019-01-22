@@ -8,7 +8,7 @@ The project is done under [LeadingIndia.AI](https://www.leadingindia.ai/aboutint
 - [Bala Selvaraj]()
 - [Ashok Mani]()
 
-#### Mentor of the project: [Shreyans Jain](https://github.com/shreyanse081)
+#### Mentor of the project: [Shreyans Jain](https://github.com/shreyanse081) and [Dr. Kanad Kishor Biswas](https://dblp.org/pers/hd/b/Biswas:Kanad_K=)
 
 For Complete details please read the [Report](https://github.com/shreyanse081/Abnormal-human-Behaviour-detection/blob/master/Report%20Group%20no%2019.pdf).
 <br><br>
