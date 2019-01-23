@@ -7,7 +7,7 @@
 The project is done under [LeadingIndia.AI](https://www.leadingindia.ai/aboutinternship) Inernship.
 
 ### Team Members are as follows:
-- [Harsh Katariya](https://github.com/rockangator)
+- [Harsh Kataria](https://github.com/rockangator)
 - [Sparsha Mishra](https://github.com/SparshaMishra)
 - [Bala Selvaraj]()
 - [Ashok Mani]()
